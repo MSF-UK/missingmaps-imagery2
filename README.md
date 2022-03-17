@@ -14,9 +14,9 @@ Temporary TMS for Missing Maps projects
 
 The imagery is now available for any OSM editor under:
 
-https://msf-uk.github.io/missingmaps-imagery/(name-of-folder)/{zoom}/{x}/{-y}.png
+https://msf-uk.github.io/missingmaps-imagery2/(name-of-folder)/{zoom}/{x}/{-y}.png
 
 Example to use in JOSM:
 
-tms:https://msf-uk.github.io/missingmaps-imagery/BFA_Barsalogho_WV3_08Nov2019_TMS/{zoom}/{x}/{-y}.png
+tms:https://msf-uk.github.io/missingmaps-imagery2/BFA_Barsalogho_WV3_08Nov2019_TMS/{zoom}/{x}/{-y}.png
 
